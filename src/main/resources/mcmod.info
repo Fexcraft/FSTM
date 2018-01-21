@@ -1,8 +1,13 @@
 [
 {
+  "modid": "fstm",
+  "name": "Fex's Shopping and Trading Mod",
+  "description": "//TODO",
   "version": "${version}",
   "mcversion": "${mcversion}",
+  "url": "http://fexcraft.net/",
   "updateUrl": "",
+  "authorList": ["FEX___96"],
   "credits": "The Forge and FML guys, for making this example",
   "logoFile": "",
   "screenshots": [],
